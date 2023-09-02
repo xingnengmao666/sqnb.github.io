@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Welcome to Jekyll!
-subtitle: A awesome static site generator.
+title: 欢迎来到MCR服务器博客!
+subtitle: 一个基YAT的网站博客
 author: Jeffrey
 categories: jekyll
 banner:
