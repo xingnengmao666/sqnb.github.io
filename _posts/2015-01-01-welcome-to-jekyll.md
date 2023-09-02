@@ -2,8 +2,8 @@
 layout: post
 title: 欢迎来到MCR服务器博客!
 subtitle: 一个基YAT的网站博客
-author: Jeffrey
-categories: jekyll
+author: sqnb
+categories: sqnb
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
@@ -21,7 +21,7 @@ top: 1
 sidebar: []
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+欢迎大家来到本站！本站上线日期为'2023/09/02'博客今后将会分享本人在洛谷写的部分题解，如有雷同，敬请谅解
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
